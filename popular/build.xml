@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="AntProject" basedir="." default="jar">
+<project name="AntProject" basedir="." default="war">
 
 	<property name="src.dir" value="src" />
 	<property name="WebContent.dir" value="WebContent" />
